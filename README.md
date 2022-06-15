@@ -18,31 +18,6 @@
 Franco DQ
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 35- #Nicolas Calvo
 
 
