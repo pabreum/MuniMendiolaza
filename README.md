@@ -1,6 +1,6 @@
-1- #PabloAbreu
-
-2- #PabloMedina
+1- #Pablo Abreu desde la linea de desarrollo
+HOT FIX 1.2.3
+2- #PabloMedina tambien desde desarrollo
 
 5 # Gabriel Sucaria
 
@@ -16,4 +16,11 @@ Franco DQ
 
 35- #NicolasCalvo
 
-55- #Michelle Berenice De la Vega
+<<<<<<< HEAD
+
+> > > > > > > # e9d66d3fc5fe4164e19bd70d67276a7e688fac2f
+> > > > > > >
+> > > > > > > 55- #Michelle Berenice De la Vega
+> > > > > > > a72a8ec727e794cf817c9d73084e85dfa8f9ce0b
+
+13- #GonzaloCorrea
